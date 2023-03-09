@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 bug fix
+=======
+commit3
+>>>>>>> feature1
